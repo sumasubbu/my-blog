@@ -1,1 +1,1 @@
-# This is my first blog
+# This is my blog's repository
