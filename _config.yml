@@ -32,6 +32,11 @@ github_username: sumasubbu
 # Build settings
 # Removed minima theme as it is now a regular theme
 # theme: minima
+
+# Fields minima uses but are not defaulted with the jekyll new command
+# Author is the default for posts, appears in the footer
+author: Suma Subbu
+linkedin_username: sumavenkatsubbu
 plugins:
   - jekyll-feed
 
